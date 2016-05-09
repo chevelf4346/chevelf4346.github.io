@@ -1,10 +1,10 @@
 h1{
   color: #1B4EC4;
-  font-weight:italics;
+  font-weight:italic;
   font-family:"Times New Roman";
 }
 p{
   color:purple;
-  border: 3 px solid pink;
-  width:40%
+  border: 3px solid pink;
+  width:40%;
 }
