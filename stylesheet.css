@@ -17,9 +17,11 @@ article{
   display:inline-block;
   width:70%;
   background-color: purple;
+  height:200px;
 
 }
 aside{
   position: absolute;
   display: inline-block;
+  height:200px;
 }
