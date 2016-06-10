@@ -9,6 +9,7 @@ $(document).ready(function(){
 		} else {
 			alert("Guess Lower");
 		}
+		$("input[name=first_name]").val("").focus();
 	})
 	//create click event for clear button
 
