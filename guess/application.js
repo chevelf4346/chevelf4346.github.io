@@ -11,7 +11,10 @@ $(document).ready(function(){
 		}
 		$("input[name=first_name]").val("").focus();
 	})
-	//create click event for clear button
+	$("#clear").click(function(){
+	random_num = Math.floor((Math.random()*100) + 1);
+	$("input[name=first_name]").val("").focus();
+	
 
 
 });
